@@ -13,3 +13,5 @@
 01:50:00 (numerics)
 01:53:00 (sequence types)
 02:05:00 (dictionary type)
+02:10:00 (user inputs and type casting)
+

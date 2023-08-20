@@ -1,0 +1,2 @@
+if code runner not taking input you can make this change in code runner in setting.
+"code-runner.runInTerminal": true
