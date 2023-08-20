@@ -10,5 +10,5 @@
 01:31:00 (identity operators)
 01:34:00 (bitwise operators)
 01:47:00 (data types)
-01:50:00 (numbers)
-01:53:00 ()
+01:50:00 (numerics)
+01:53:00 (sequence types)
