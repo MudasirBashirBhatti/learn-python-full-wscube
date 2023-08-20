@@ -12,3 +12,4 @@
 01:47:00 (data types)
 01:50:00 (numerics)
 01:53:00 (sequence types)
+02:05:00 (dictionary type)
