@@ -15,4 +15,5 @@
 02:05:00 (dictionary type)
 02:10:00 (user inputs and type casting)
 02:20:00 (conditional statements)
+02:48:00 (simple calculator)
 
