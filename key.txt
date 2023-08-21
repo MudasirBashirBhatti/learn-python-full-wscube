@@ -17,5 +17,8 @@
 02:20:00 (conditional statements)
 02:39:00 (simple calculator)
 02:48:00 (for loop)
-03:07:00 (while lopp)
+03:07:00 (while loop)
+03:17:00 (string indexing and slicing)
+03:28:00
+
 
