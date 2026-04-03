@@ -5,8 +5,8 @@ print(x)
 print(type(x))
 
 
-x[1] = 'never'
-print(x)    #return error() becuase it is immutable
+#x[1] = 'never'
+#print(x)    #return error() becuase it is immutable
 
 # :key differences b/w tuple and list
 # tuple is immutable, while list is mutable 
@@ -15,6 +15,6 @@ print(x)    #return error() becuase it is immutable
 # atleast more than one items should present else it is not tuple
 
 # if we write only one item in tuple than the data type will be of that item. 
-y = (5)
+y = (5) #return type of y is int not tuple because it is only one item. to make it a tuple we have to add a comma after the item.
 print(y)            #return 5
 print(type(y))      #return type = int
