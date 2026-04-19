@@ -8,7 +8,7 @@ def is_palindrome(text: str) -> bool:
         
     return True
 
-print(is_palindrome("madam"))        # True
-print(is_palindrome("RaceCar"))      # True
-print(is_palindrome("hello"))        # False
-print(is_palindrome("nurses run"))   # True
+print(is_palindrome("madam"))
+print(is_palindrome("RaceCar"))
+print(is_palindrome("hello"))
+print(is_palindrome("nurses run"))
